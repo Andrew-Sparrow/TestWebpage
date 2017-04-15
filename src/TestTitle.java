@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class TestTitle
 {
     WebDriver driver ;
-    String driverpath = "F:/Instal/For Testing/geckodriver/geckodriver.exe";
+    String driverpath = "F:/Instal/For Testing/geckodriver/geckodriver.exe";//путь к geckodriver
 
     private String baseUrl;
     private boolean acceptNextAlert = true;
