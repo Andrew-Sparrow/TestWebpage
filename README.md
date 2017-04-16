@@ -1,6 +1,6 @@
 ### TestWebpage
 #### Test of a title of a Webpage
-##### Авто тест для проверки Title страницы.
+##### 
 ##### Шаги:
 ##### 1.Скачать последнию версию Mozilla Firefox
 ##### 2.Установить плагин Selenium IDE. https://addons.mozilla.org/ru/firefox/addon/selenium-ide/
