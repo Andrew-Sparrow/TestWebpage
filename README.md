@@ -1,8 +1,7 @@
 ### TestWebpage
 #### Test of a title of a Webpage
 ##### 
-##### Шаги:
-##### 1.Скачать последнию версию Mozilla Firefox
+##### Шаги:##### 1.Скачать последнию версию Mozilla Firefox
 ##### 2.Установить плагин Selenium IDE. https://addons.mozilla.org/ru/firefox/addon/selenium-ide/
 ##### 3.Скачать Selenium Standalone Server http://docs.seleniumhq.org/download/
 ##### 4.Скачать geckodriver  https://github.com/mozilla/geckodriver/releases
